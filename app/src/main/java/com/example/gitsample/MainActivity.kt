@@ -7,8 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        println("Very first commit")
-        println("Second commit")
         println("Youtube branch")
     }
 }
