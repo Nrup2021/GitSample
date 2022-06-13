@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Very first commit")
         println("Second commit")
-        this is sample text
     }
 }
